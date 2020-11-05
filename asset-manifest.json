@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vidly-app/static/css/main.7385f87e.chunk.css",
+    "main.js": "/vidly-app/static/js/main.e63932f8.chunk.js",
+    "main.js.map": "/vidly-app/static/js/main.e63932f8.chunk.js.map",
+    "runtime-main.js": "/vidly-app/static/js/runtime-main.348b7271.js",
+    "runtime-main.js.map": "/vidly-app/static/js/runtime-main.348b7271.js.map",
+    "static/css/2.ba3dfce7.chunk.css": "/vidly-app/static/css/2.ba3dfce7.chunk.css",
+    "static/js/2.5d34f29a.chunk.js": "/vidly-app/static/js/2.5d34f29a.chunk.js",
+    "static/js/2.5d34f29a.chunk.js.map": "/vidly-app/static/js/2.5d34f29a.chunk.js.map",
+    "index.html": "/vidly-app/index.html",
+    "precache-manifest.f2c45cf5161b13b41ec4929545d13332.js": "/vidly-app/precache-manifest.f2c45cf5161b13b41ec4929545d13332.js",
+    "service-worker.js": "/vidly-app/service-worker.js",
+    "static/css/2.ba3dfce7.chunk.css.map": "/vidly-app/static/css/2.ba3dfce7.chunk.css.map",
+    "static/css/main.7385f87e.chunk.css.map": "/vidly-app/static/css/main.7385f87e.chunk.css.map",
+    "static/js/2.5d34f29a.chunk.js.LICENSE.txt": "/vidly-app/static/js/2.5d34f29a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/vidly-app/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.348b7271.js",
+    "static/css/2.ba3dfce7.chunk.css",
+    "static/js/2.5d34f29a.chunk.js",
+    "static/css/main.7385f87e.chunk.css",
+    "static/js/main.e63932f8.chunk.js"
+  ]
+}
